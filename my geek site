@@ -7,4 +7,23 @@
  text-align: center;
  display: flex;
  flex-direction: column;
- jusify 
+ jusify-content: flex-start;
+aling-itens: center;
+height: 100vh;
+margin: 0;
+}
+
+h1 {
+margin-top: 20px
+}
+
+p {
+max-width: 400px;
+margin-bottom: 20px;
+}
+</style>
+</head>
+<body>
+<h1> Ola caro amante da cultura geek. seja bem-vindo a mais um dos milhares de sites sobre a cultura dos animes , que é bem bom por acaso.
+
+<p> Esse é um site <strong>100%</strong> voltado para o mundo dos animes , se junte a nós e seja um otaku de coração
