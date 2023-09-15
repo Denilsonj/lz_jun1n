@@ -1,0 +1,28 @@
+body {
+  backgrond-image: url;
+  background-size: cover;
+  background-reapeat: no-reapeat;
+  background-attachment: fixed;
+  background-position: center center;
+  color: purple ;
+  font-family:Kratos TrueType;
+  text-aling: center;
+  margen: 0;
+  padding: 0;
+}
+
+
+#content {
+  background-color: rgba;
+  padding: 20px;
+}
+
+h1{
+  font-size: 36px;
+  margen-top: 20px;
+}
+
+p{
+  font-size: 20px;
+  max-width: 600px;
+  margin: 20px;
