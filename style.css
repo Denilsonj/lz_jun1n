@@ -26,3 +26,30 @@ p{
   font-size: 20px;
   max-width: 600px;
   margin: 20px;
+}
+
+  .button-container {
+    text-aling: center;
+    margin-top: 20px;
+  }
+
+.button{ 
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #800080;
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+  border: none;
+    cursor: pointer;
+  margin-rigth: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: block;
+}
+
+.button:hover{
+  background-color: #555;
+}
+
+
