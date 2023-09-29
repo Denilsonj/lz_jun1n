@@ -7,44 +7,44 @@ body {
   color: purple ;
   font-family:Kratos TrueType;
   text-aling: center;
-  margen: 0;
+  margen: 50;
   padding: 0;
 }
 
 
 #content {
   background-color: rgba;
-  padding: 20px;
+  padding: 20 px;
 }
 
 h1{
-  font-size: 36px;
-  margen-top: 20px;
+  font-size: 36 px;
+  margen-top: 20 px;
 }
 
 p{
-  font-size: 20px;
-  max-width: 600px;
-  margin: 20px;
+  font-size: 20 px;
+  max-width: 600 px;
+  margin: 20 px;
 }
 
   .button-container {
     text-aling: center;
-    margin-top: 20px;
+    margin-top: 20 px;
   }
 
 .button{ 
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10 px 20 px;
   background-color: #800080;
   color: blue;
   text-decoration: none;
   font-weight: bold;
   border: none;
     cursor: pointer;
-  margin-rigth: 10px;
-  margin-bottom: 10px;
-  border-radius: 5px;
+  margin-rigth: 10 px;
+  margin-bottom: 10 px;
+  border-radius: 5 px;
   display: block;
 }
 
