@@ -2,5 +2,34 @@
 
 <html lang="pt-br"> para deixa o site em portugues
 
+<head> para criar a parte e cima do site (cabeçairio)
+
+<meta charset="UTF-8"> qual o tipo de caracteres ele ira usar
+
+<title> titulo da aba
+
+ <link rel="stylesheet" href="style.css"> é para ligar o .css ao html
+
+<style> estilo do site
+
+<body> o meio do site
+
+<div id="content"> divisão de conteudo
+
+<h1> titulo do site
+
+<p1> primeiro paragrafo 
+<p2> segundo paragrafo
+<p3> terceiro paragrafo
+
+<div class="button-container"> divisão do botão
+
+<a href="https://mangaplus.shueisha.co.jp/updates" class="button"> e <a href="https://goyabu.to/" class="button"> referencia para os botões
+
+</div> cancelar divisão
+
+</body> fechar corpo
+
+</html> fechar html
 
 
